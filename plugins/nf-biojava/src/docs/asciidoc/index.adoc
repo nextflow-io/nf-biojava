@@ -13,7 +13,7 @@ NOTE: THIS IS A PREVIEW TECHNOLOGY, FEATURES AND CONFIGURATION SETTINGS CAN CHAN
 
 == Build
 
-- Clone the repository from https://github.com/jorgeaguileraseqera/nf-biojava into a directory
+- Clone the repository into a directory
 
 - Execute into the cloned directory:
 
